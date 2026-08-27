@@ -36,4 +36,4 @@ O projeto é desenvolvido na disciplina MAC0332 - Engenharia de Software e reún
 Caso precise de informações do sistema ou do projeto como um todo, recomendamos fortemente que consulte a página do repositório principal.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#EB07FF&height=120&section=bottom"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EB07FF&height=120&section=footer"/>
