@@ -25,8 +25,8 @@ O projeto é desenvolvido na disciplina MAC0332 - Engenharia de Software e reún
 
 - **Backend**: FastAPI + SQLModel + PostgreSQL
 - **Frontend**: React + Vite + TypeScript + Tailwind CSS
-- **Autenticação**: OAuth 2.0 (Google) sem cadastro por e-mail/senha
-- **Infra**: Docker Compose: o backend serve o build de produção do frontend
+- **Autenticação**: OAuth
+- **Infra**: Docker
 
 <p align="center">
 Caso precise de informações do sistema ou do projeto como um todo, recomendamos fortemente que consulte a página do repositório principal.
