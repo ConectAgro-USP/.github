@@ -23,11 +23,11 @@ O projeto é desenvolvido na disciplina MAC0332 - Engenharia de Software e reún
 
 <h2 align="center">Tecnologias</h2>
 
-<p align="center">
-<b>Backend</b> — FastAPI + SQLModel + PostgreSQL<br/>
-<b>Frontend</b> — React + Vite + TypeScript + Tailwind CSS<br/>
-<b>Autenticação</b> — OAuth 2.0 (Google), sem cadastro por e-mail e senha<br/>
-<b>Infra</b> — Docker
+<p>
+<b>Backend:</b> FastAPI + SQLModel + PostgreSQL<br/>
+<b>Frontend:</b> React + Vite + TypeScript + Tailwind CSS<br/>
+<b>Autenticação:</b> OAuth<br/>
+<b>Infra:</b> Docker
 </p>
 
 <br/>
@@ -36,4 +36,4 @@ O projeto é desenvolvido na disciplina MAC0332 - Engenharia de Software e reún
 Caso precise de informações do sistema ou do projeto como um todo, recomendamos fortemente que consulte a página do repositório principal.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#EB07FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#EB07FF&height=120&section=bottom"/>
