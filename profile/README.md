@@ -21,16 +21,12 @@ O projeto é desenvolvido na disciplina MAC0332 - Engenharia de Software e reún
 
 </div>
 
-<h2>Este projeto foi construído com:</h2>
+## Stack
 
-<ul>
-  <li><b>Backend:</b> FastAPI + SQLModel + PostgreSQL</li>
-  <li><b>Frontend:</b> React + Vite + TypeScript + Tailwind CSS</li>
-  <li><b>Autenticação:</b> OAuth</li>
-  <li><b>Infra:</b> Docker</li>
-</ul>
-
-<br/>
+- **Backend**: FastAPI + SQLModel + PostgreSQL
+- **Frontend**: React + Vite + TypeScript + Tailwind CSS
+- **Autenticação**: OAuth 2.0 (Google) sem cadastro por e-mail/senha
+- **Infra**: Docker Compose: o backend serve o build de produção do frontend
 
 <p align="center">
 Caso precise de informações do sistema ou do projeto como um todo, recomendamos fortemente que consulte a página do repositório principal.
