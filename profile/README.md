@@ -21,14 +21,14 @@ O projeto é desenvolvido na disciplina MAC0332 - Engenharia de Software e reún
 
 </div>
 
-<h2 align="center">Tecnologias</h2>
+<h2>Este projeto foi construído com:</h2>
 
-<p>
-<b>Backend:</b> FastAPI + SQLModel + PostgreSQL<br/>
-<b>Frontend:</b> React + Vite + TypeScript + Tailwind CSS<br/>
-<b>Autenticação:</b> OAuth<br/>
-<b>Infra:</b> Docker
-</p>
+<ul>
+  <li><b>Backend:</b> FastAPI + SQLModel + PostgreSQL</li>
+  <li><b>Frontend:</b> React + Vite + TypeScript + Tailwind CSS</li>
+  <li><b>Autenticação:</b> OAuth</li>
+  <li><b>Infra:</b> Docker</li>
+</ul>
 
 <br/>
 
